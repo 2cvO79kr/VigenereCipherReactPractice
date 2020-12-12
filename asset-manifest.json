@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/VegenereCypher/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/VegenereCypher/static/js/main.082a06f7.chunk.js",
-    "main.js.map": "/VegenereCypher/static/js/main.082a06f7.chunk.js.map",
-    "runtime-main.js": "/VegenereCypher/static/js/runtime-main.6c1f0227.js",
-    "runtime-main.js.map": "/VegenereCypher/static/js/runtime-main.6c1f0227.js.map",
-    "static/js/2.7cb8de4a.chunk.js": "/VegenereCypher/static/js/2.7cb8de4a.chunk.js",
-    "static/js/2.7cb8de4a.chunk.js.map": "/VegenereCypher/static/js/2.7cb8de4a.chunk.js.map",
-    "static/js/3.1d477995.chunk.js": "/VegenereCypher/static/js/3.1d477995.chunk.js",
-    "static/js/3.1d477995.chunk.js.map": "/VegenereCypher/static/js/3.1d477995.chunk.js.map",
-    "index.html": "/VegenereCypher/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/VegenereCypher/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7cb8de4a.chunk.js.LICENSE.txt": "/VegenereCypher/static/js/2.7cb8de4a.chunk.js.LICENSE.txt"
+    "main.css": "/VigenereCipherReactPractice/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/VigenereCipherReactPractice/static/js/main.082a06f7.chunk.js",
+    "main.js.map": "/VigenereCipherReactPractice/static/js/main.082a06f7.chunk.js.map",
+    "runtime-main.js": "/VigenereCipherReactPractice/static/js/runtime-main.5b20ccf4.js",
+    "runtime-main.js.map": "/VigenereCipherReactPractice/static/js/runtime-main.5b20ccf4.js.map",
+    "static/js/2.7cb8de4a.chunk.js": "/VigenereCipherReactPractice/static/js/2.7cb8de4a.chunk.js",
+    "static/js/2.7cb8de4a.chunk.js.map": "/VigenereCipherReactPractice/static/js/2.7cb8de4a.chunk.js.map",
+    "static/js/3.1d477995.chunk.js": "/VigenereCipherReactPractice/static/js/3.1d477995.chunk.js",
+    "static/js/3.1d477995.chunk.js.map": "/VigenereCipherReactPractice/static/js/3.1d477995.chunk.js.map",
+    "index.html": "/VigenereCipherReactPractice/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/VigenereCipherReactPractice/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7cb8de4a.chunk.js.LICENSE.txt": "/VigenereCipherReactPractice/static/js/2.7cb8de4a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c1f0227.js",
+    "static/js/runtime-main.5b20ccf4.js",
     "static/js/2.7cb8de4a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.082a06f7.chunk.js"
